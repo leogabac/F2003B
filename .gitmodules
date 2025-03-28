@@ -1,0 +1,12 @@
+[submodule "captcha"]
+	path = captcha
+	url = https://github.com/Fegweg/CaptchaDeterministicos
+[submodule "josh-moosee"]
+	path = josh-moosee
+	url = https://github.com/JoceLRD/Josh-Moosee.git
+[submodule "ancianos-github"]
+	path = ancianos-github
+	url = https://github.com/Vizuet775/Reto-determin-sticos.git
+[submodule "imponchables"]
+	path = imponchables
+	url = https://github.com/leolg19/Los-Imponchables.git
