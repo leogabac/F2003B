@@ -10,3 +10,6 @@
 [submodule "imponchables"]
 	path = imponchables
 	url = https://github.com/leolg19/Los-Imponchables.git
+[submodule "ing-fiestas-infantiles"]
+	path = ing-fiestas-infantiles
+	url = https://github.com/A00572339/IFI-Det.git
